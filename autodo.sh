@@ -1,4 +1,4 @@
 cd ~/Desktop
 pwd >list.txt
 ls -a >> list.txt
-echo "done">> list.txt
+echo "that is all files">> list.txt
